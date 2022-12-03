@@ -32,3 +32,4 @@ from math import pi
 print("Введите радиус круга для вычисления его площади: ")
 r = float(input())
 print(f"Площадь круга равна: {pi * r}")
+print("")
